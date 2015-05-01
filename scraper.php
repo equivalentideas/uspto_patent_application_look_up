@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 /* USPTO Patent Patent Application Look Up */
 /* written 2012-07-19 by Conrad Sorenson */
